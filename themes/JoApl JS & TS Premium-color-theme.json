@@ -47,7 +47,7 @@
 		"scrollbarSlider.hoverBackground": "#3a3f4c",
 	
 		// Like Search Word input
-		"input.background": "#292D3E",
+		"input.background": "#1B1E2B",
 		"input.foreground": "#A6ACCD",
 		"input.placeholderForeground": "#746f77",
 		"inputOption.activeBorder": "#C668BA",
@@ -63,7 +63,7 @@
 		"menu.selectionBackground": "#1B1E2B",
 
 		// Like Terminal DropDown
-		"dropdown.background": "#292D3E",
+		"dropdown.background": "#1B1E2B",
 		"dropdown.border": "#363c49",
 		"dropdown.foreground": "#A6ACCD",
 	
@@ -195,7 +195,7 @@
 		"terminal.ansiBrightCyan": "#00e8c6",
 		"terminalCursor.background": "#23262E",
 		"terminalCursor.foreground": "#FFE66D",
-		"terminal.background": "#062f3d",
+		"terminal.background": "#032935",
 	  },
 	  "tokenColors": [
 		{
@@ -453,7 +453,8 @@
 			"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 		  ],
 		  "settings": {
-			"foreground": "#8dc8e8"
+			"foreground": "#8dc8e8",
+			"fontStyle": ""
 		  }
 		},
 		{
@@ -465,6 +466,7 @@
 		  ],
 		  "settings": {
 			"foreground": "#98C379"
+			"fontStyle": "",
 		  }
 		},
 		{
@@ -491,7 +493,8 @@
 			"support.type.sys-types"
 		  ],
 		  "settings": {
-			"foreground": "#FFCB6B"
+			"foreground": "#FFCB6B",
+			"fontStyle": ""
 		  }
 		},
 		{
@@ -761,7 +764,7 @@
 			"source.json meta meta meta meta.structure.dictionary.json punctuation.definition.string - meta meta meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string"
 		  ],
 		  "settings": {
-			"foreground": "#F78C6C"
+			"foreground": "#FFCB6B"
 		  }
 		},
 		{
@@ -771,7 +774,7 @@
 			"source.json meta meta.structure.dictionary.json punctuation.definition.string - meta meta.structure.dictionary.json meta.structure.dictionary.value.json punctuation.definition.string"
 		  ],
 		  "settings": {
-			"foreground": "#F78C6C"
+			"foreground": "#FFCB6B"
 		  }
 		},
 		{
@@ -791,7 +794,7 @@
 			"support.type.property-name.json"
 		  ],
 		  "settings": {
-			"foreground": "#F78C6C",
+			"foreground": "#FFCB6B",
 		  }
 		},
 		{

@@ -2,7 +2,25 @@
   "name": "joapl-theme",
   "displayName": "JoApl Theme",
   "description": "JS and TS Premium Theme (free)",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "JoeApl",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apablazajoel/JoeApl-Premium-Theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "javascript teme",
+    "typescript theme",
+    "js theme",
+    "ts theme",
+    "bold",
+    "bold theme",
+    "italic",
+    "italic theme",
+    "joeapl"
+  ],
   "engines": {
     "vscode": "^1.71.0"
   },
