@@ -10,7 +10,7 @@ configurate. If you want to use ligatures you can also install 'Cascadia Code Fo
 
 ![image info](img/demo-ts.JPG)
 
-![image info](img/react.JPG)
+![image info](img/demo-react-terminal.JPG)
 
 ## Install fonts and configure ligature (optional)
 * Go to [IBM Plex Sans](https://github.com/IBM/plex/releases/tag/v6.1.1) for more legibility or to [Cascadia Code](https://github.com/microsoft/cascadia-code/releases) to have ligatures. Download and install the font/s
