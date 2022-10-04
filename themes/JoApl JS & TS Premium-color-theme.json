@@ -465,7 +465,7 @@
 			"string.quoted.template.js"
 		  ],
 		  "settings": {
-			"foreground": "#98C379"
+			"foreground": "#98C379",
 			"fontStyle": "",
 		  }
 		},
