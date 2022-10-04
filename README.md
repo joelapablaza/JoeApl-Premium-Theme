@@ -24,6 +24,9 @@ configurate. If you want to use ligatures you can also install 'Cascadia Code Fo
 
 ![image info](img/Configure-ligatures-2.jpg)
 
+### You can also change the terminal font
+* To do this you need to go to settings and search for "terminal font" and you can change the Font Family. I recommend using "Cascadia Code PL".
+
 ## For more information
 
 * [Github Repository](https://github.com/apablazajoel/JoeApl-Premium-Theme)
