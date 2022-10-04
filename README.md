@@ -32,6 +32,6 @@ configurate. I also recommend changing the terminal font to have a better experi
 
 * [Github Repository](https://github.com/apablazajoel/JoeApl-Premium-Theme)
 
-**Thank you for your support!**
+### Thank you for the support!
 
-### Created By Joel Apablaza
+**Created By Joel Apablaza**
