@@ -135,7 +135,7 @@
 		// statusBar
 		"statusBar.background": "#1B1E2B",
 		"statusBar.foreground": "#A6ACCD",
-		"statusBar.debuggingBackground": "#fc634c",
+		"statusBar.debuggingBackground": "#ff24deaf",
 		"statusBar.noFolderBackground": "#1B1E2B",
 		"statusBarItem.activeBackground": "#07ebc8cc",
 		"statusBarItem.hoverBackground": "#0bc9acb0",
@@ -195,7 +195,7 @@
 		"terminal.ansiBrightCyan": "#00e8c6",
 		"terminalCursor.background": "#23262E",
 		"terminalCursor.foreground": "#FFE66D",
-		"terminal.background": "#032935",
+		"terminal.background": "#011224",
 	  },
 	  "tokenColors": [
 		{
