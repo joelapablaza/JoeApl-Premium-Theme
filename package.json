@@ -4,6 +4,7 @@
   "description": "JS and TS Premium Theme (free)",
   "version": "1.0.0",
   "publisher": "JoeApl",
+  "icon": "img/miniatura.jpg",
   "repository": {
     "type": "git",
     "url": "https://github.com/apablazajoel/JoeApl-Premium-Theme"
