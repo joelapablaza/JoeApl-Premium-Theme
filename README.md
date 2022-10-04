@@ -3,8 +3,9 @@
 ## Take a look
 
 This theme has been created to make it easy to read and write using Javascript (react included), Typescript and added visual and understandable colors to HTML, CSS and JSON files.
+
 To use this theme I recommend to install 'IBM Plex Sans' font (free), at the end there is a guide to install and
-configurate. If you want to use ligatures you can also install 'Cascadia Code Font'.
+configurate. I also recommend changing the terminal font to have a better experience (more info at the end). If you want to use ligatures you can also install 'Cascadia Code Font'.
 
 ![image info](img/demo-js.JPG)
 
@@ -25,11 +26,13 @@ configurate. If you want to use ligatures you can also install 'Cascadia Code Fo
 ![image info](img/Configure-ligatures-2.jpg)
 
 ### You can also change the terminal font
-* To do this you need to go to settings and search for "terminal font" and you can change the Font Family. I recommend using "Cascadia Code PL".
+* To do this you need to go to settings and search for "terminal font" and you can change the Font Family. I recommend using [Hack Font](https://github.com/source-foundry/Hack) or "Cascadia Code PL". If you decide to go with "Hack Font" you will need to ignore the message "use monospace font" and restart the app to properly visualizate the font on the terminal.
 
 ## For more information
 
 * [Github Repository](https://github.com/apablazajoel/JoeApl-Premium-Theme)
 
+**Thank you for your support**
 **Enjoy!**
+
 ### Created By Joel Apablaza

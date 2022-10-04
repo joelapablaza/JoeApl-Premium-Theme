@@ -1,10 +1,10 @@
 {
   "name": "joapl-theme",
-  "displayName": "JoApl JS TS Theme Pro",
-  "description": "JS and TS Premium Theme (free)",
-  "version": "1.0.4",
+  "displayName": "Italic/Bold Theme Pro",
+  "description": "JS and TS Premium Quality Theme",
+  "version": "1.0.5",
   "publisher": "JoeApl",
-  "icon": "img/miniatura.jpg",
+  "icon": "img/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/apablazajoel/JoeApl-Premium-Theme"

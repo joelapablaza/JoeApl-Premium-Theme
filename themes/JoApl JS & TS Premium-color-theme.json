@@ -1,5 +1,5 @@
 {
-	"name": "JoApl JS TS Theme Pro",
+	"name": "Italic/Bold Theme Pro",
 	  "$schema": "vscode://schemas/color-theme",
 	  "type": "dark",
 	  "colors": {
@@ -137,10 +137,10 @@
 		"statusBar.foreground": "#A6ACCD",
 		"statusBar.debuggingBackground": "#ff24deaf",
 		"statusBar.noFolderBackground": "#1B1E2B",
-		"statusBarItem.activeBackground": "#07ebc8cc",
-		"statusBarItem.hoverBackground": "#0bc9acb0",
-		"statusBarItem.prominentBackground": "#0bc9acb0",
-		"statusBarItem.prominentHoverBackground": "#07ebc8cc",
+		"statusBarItem.activeBackground": "#f39d12d7",
+		"statusBarItem.hoverBackground": "#f39d12af",
+		"statusBarItem.prominentBackground": "#f39d12af",
+		"statusBarItem.prominentHoverBackground": "#f39d12d7",
 	
 		// Merge
 		"merge.currentHeaderBackground": "#F92672",
@@ -167,7 +167,7 @@
 		"editorSuggestWidget.background": "#20232A",
 		"editorSuggestWidget.border": "#372F3C",
 		"editorSuggestWidget.selectedBackground": "#373941",
-		"editorHoverWidget.border": "#00e8c5cc",
+		"editorHoverWidget.border": "#f39d12d7",
 		"debugExceptionWidget.background": "#FF9F2E60",
 		"debugExceptionWidget.border": "#FF9F2E60",
 	
@@ -599,6 +599,16 @@
 		  }
 		},
 		{
+		"name": "CSS keyword media",
+		"scope": [
+			"keyword.control.at-rule.media.css",
+			"punctuation.definition.keyword.css"
+		],
+		"settings": {
+		  "foreground": "#B97CE2"
+		}
+	  },
+		{
 		  "name": "Inserted",
 		  "scope": "markup.inserted",
 		  "settings": {
@@ -900,12 +910,19 @@
 		  "settings": {}
 		},
 		{
-		  "name": "Markdown - Blockquote",
-		  "scope": "markup.quote punctuation.definition.blockquote.markdown",
+		  "name": "Markdown - Section",
+		  "scope": "entity.name.section.markdown",
 		  "settings": {
-			"foreground": "#65737e"
+			"foreground": "#ee9e3d"
 		  }
 		},
+		{
+			"name": "Markdown - Blockquote",
+			"scope": "markup.quote punctuation.definition.blockquote.markdown",
+			"settings": {
+			  "foreground": "#65737e"
+			}
+		  },
 		{
 		  "name": "Markup - Quote",
 		  "scope": "markup.quote",
@@ -1239,7 +1256,7 @@
 				"variable.other.constant.ts"
 			],
 			"settings": {
-				"foreground": "#C6BEFF",
+				"foreground": "#bbb2fc",
 			}
 		},
 		{
