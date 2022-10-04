@@ -1,0 +1,21 @@
+{
+  "name": "joapl-theme",
+  "displayName": "JoApl Theme",
+  "description": "JS and TS Premium Theme (free)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JoApl JS & TS Premium",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JoApl JS & TS Premium-color-theme.json"
+      }
+    ]
+  }
+}
