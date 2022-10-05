@@ -2,9 +2,10 @@
   "name": "joapl-theme",
   "displayName": "Italic - Bold Theme Pro",
   "description": "JS and TS Premium Quality Theme",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "JoeApl",
   "icon": "img/logo.png",
+  "year": 2018,
   "repository": {
     "type": "git",
     "url": "https://github.com/apablazajoel/JoeApl-Premium-Theme"

@@ -438,7 +438,7 @@
 			"keyword.other.unit"
 		  ],
 		  "settings": {
-			"foreground": "#FF5D8F"
+			"foreground": "#f4bd58"
 		  }
 		},
 		{
@@ -804,7 +804,7 @@
 			"support.type.property-name.json"
 		  ],
 		  "settings": {
-			"foreground": "#FFCB6B",
+			"foreground": "#FF5D8F",
 		  }
 		},
 		{
@@ -823,7 +823,7 @@
 			"meta.structure.dictionary.value.json"
 		  ],
 		  "settings": {
-			"foreground": "#C3E88D",
+			"foreground": "#80c152",
 		  }
 		},
 		{
