@@ -438,7 +438,8 @@
 			"keyword.other.unit"
 		  ],
 		  "settings": {
-			"foreground": "#f4bd58"
+			"foreground": "#f4bd58",
+			"fontStyle": "",
 		  }
 		},
 		{
@@ -511,11 +512,19 @@
 		  }
 		},
 		{
+			"name": "VAriable Other Class",
+			"scope": [
+			  "variable.other.class.js"
+			],
+			"settings": {
+			  "foreground": "#FFCB6B"
+			}
+		  },
+		{
 		  "name": "Sub-methods",
 		  "scope": [
 			"entity.name.module.js",
 			"variable.import.parameter.js",
-			"variable.other.class.js"
 		  ],
 		  "settings": {
 			"foreground": "#FF5370"
@@ -1305,6 +1314,7 @@
 			],
 			"settings": {
 				"foreground": "#ffff5d",
+				"fontStyle": "",
 			}
 		},
 		{
