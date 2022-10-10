@@ -601,6 +601,13 @@
 		  }
 		},
 		{
+			"name": "CSS Numbers",
+			"scope": "constant.numeric.css",
+			"settings": {
+			  "foreground": "#F07178"
+			}
+		  },
+		{
 		  "name": "CSS Id",
 		  "scope": "source.sass keyword.control",
 		  "settings": {
